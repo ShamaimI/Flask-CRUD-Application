@@ -16,7 +16,7 @@ This is a straightforward CRUD (Create, Read, Update, Delete) application develo
 - **Bootstrap 5:** The latest version of the popular front-end framework for responsive design.
 
 ## Screenshots
-
+abc
 ### Add Entries:
 
 ![Screenshot 1](https://github.com/striderzz/Flask-CRUD-Application/assets/72110940/ddf8573a-08c0-46f3-9f42-c289531669bf)
